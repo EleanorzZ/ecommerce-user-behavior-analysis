@@ -78,4 +78,4 @@
 
 ## 项目链接
 
-[GitHub 仓库](https://github.com/[EleanorzZ]/ecommerce-user-behavior-analysis)
+[GitHub 仓库](https://github.com/EleanorzZ/ecommerce-user-behavior-analysis)
